@@ -43,6 +43,8 @@
 
 // Lenis smooth scrolling
 const lenis = new Lenis({
+  wrapper: window, // Changed from default to ensure it's applied to the whole page
+  content: document.documentElement, // Explicitly set the content to the root element
   duration: 1.2,
   easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
   direction: 'vertical',
