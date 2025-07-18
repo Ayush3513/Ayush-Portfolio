@@ -1,10 +1,4 @@
-﻿# Ayush-Portfolio
-Read file: package.json
-Read file: README.md
-Read file: index.html
-Here’s a professional, well-formatted README.md for your portfolio project. You can copy and replace your current README.md with this content:
 
----
 
 # Ayush Portfolio
 
@@ -52,11 +46,6 @@ portfolio-new/
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots here if you want to visually showcase your site!_
-
----
 
 ## ✨ Getting Started
 
@@ -69,22 +58,6 @@ portfolio-new/
    ```bash
    npm install
    ```
-
----
-
-## 📬 Contact
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [Your Portfolio Link](https://your-portfolio-link.com)
-
----
-
-## 📝 License
-
-This project is for personal and academic use.
-
----
 
 ## 🙏 Acknowledgements
 
