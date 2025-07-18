@@ -65,5 +65,3 @@ portfolio-new/
 - Special thanks to my professor and peers for their support and feedback.
 
 ---
-
-Feel free to personalize the contact info, add screenshots, or expand the acknowledgements as you see fit! If you want a more playful or creative version, just let me know.
