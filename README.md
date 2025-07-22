@@ -39,7 +39,6 @@ portfolio-new/
 ├── img/           # Images and backgrounds
 ├── js/            # JavaScript files
 ├── index.html     # Main HTML file
-├── mail.php       # Contact form backend
 ├── package.json   # Project metadata
 └── README.md      # This file
 ```
